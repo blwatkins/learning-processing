@@ -28,6 +28,6 @@ void draw() {
 This is a live blog, and development is still ongoing.
 Updates and new articles will be posted to [brittni's various social media accounts](https://linktr.ee/brittniwatkins).
 
-The applications of computer programming are numerous and varied; there is space for everyone.
+***The applications of computer programming are numerous and varied; there is space for everyone.***
 
 Happy Coding!
